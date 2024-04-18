@@ -1,2 +1,2 @@
 # optimization-methods-lab2
-Lab 2 for optimization methods course in ITMO. Newton's method, quazi-Newton methods.
+Лабораторная работа №2 по предмету методы оптимизации. Колтаков Максим М3234, Рязанова Екатерина М3234, Хайруллин Артур М3234.
